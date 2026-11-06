@@ -1,0 +1,1 @@
+{"band":"20MHz@299(B1) + 100MHz@630666(N78)","pci":"101","scc_pci":"202","cell_id":"10000001","sinr":"18dB","rsrp":"-83dBm","rsrq":"-8dB","nrsinr":"20dB","nrrsrp":"-95dBm","nrrsrq":"-10dB","txpower":"PPusch:3dBm PPucch:-18dBm","nrtxpower":"PPusch:23dBm PPucch:16dBm","ul_mcs":"mcsUpCarrier1:20@64QAM","nrulmcs":"NRmcsUpCarrier1:18@64QAM"}
